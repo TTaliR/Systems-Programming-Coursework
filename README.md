@@ -4,7 +4,7 @@ This repository contains three separate C-based projects developed for systems p
 
 ## Projects
 
-### 1. Word Filter and Counter
+### 1. Multithreaded Word Filter and Counter
 
 A command-line utility written in C that reads an input file, filters words based on given criteria, and counts occurrences. Useful for basic text processing and statistics.
 
