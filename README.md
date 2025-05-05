@@ -2,7 +2,7 @@
 
 This repository contains three separate C-based projects developed for systems programming coursework. Each project demonstrates different aspects of C programming including file I/O, process management, user handling, and inter-process communication.
 
-## 📁 Projects
+## Projects
 
 ### 1. Word Filter and Counter
 Path: `Project1_WordFilterAndCounter/`
@@ -40,7 +40,7 @@ Implements producer-consumer architecture using both FIFOs and unnamed pipes. Id
 
 ---
 
-## 🛠 Build and Run
+## Build and Run
 
 Use `gcc` to compile individual `.c` files. Example:
 
@@ -53,6 +53,6 @@ Repeat for other files depending on the desired program.
 
 ---
 
-## 📄 License
+## License
 
 This repository is intended for educational purposes only.
