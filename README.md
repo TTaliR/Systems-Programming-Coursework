@@ -5,7 +5,6 @@ This repository contains three separate C-based projects developed for systems p
 ## Projects
 
 ### 1. Word Filter and Counter
-Path: `Project1_WordFilterAndCounter/`
 
 A command-line utility written in C that reads an input file, filters words based on given criteria, and counts occurrences. Useful for basic text processing and statistics.
 
@@ -15,7 +14,6 @@ A command-line utility written in C that reads an input file, filters words base
 ---
 
 ### 2. User Management System
-Path: `Project2_UserManagement/`
 
 This set of programs handles basic user record operations such as adding and checking users. It simulates multi-process behavior using child processes.
 
@@ -27,8 +25,7 @@ This set of programs handles basic user record operations such as adding and che
 
 ---
 
-### 3. Inter-Process Communication via FIFOs and Pipes
-Path: `Project3_IPC_FIFOsPipes/`
+### 3. FIFOs and Pipes Communication
 
 Implements producer-consumer architecture using both FIFOs and unnamed pipes. Ideal for demonstrating Linux IPC mechanisms.
 
